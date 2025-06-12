@@ -19,10 +19,14 @@ And gradually expanding into:
 ---
 
 ## 📂 Folder Overview
-Python-Learning/
+Python-Learning
+
 ├── Python_Basics/ # Python syntax, functions, OOP, etc.
+
 ├── DSA/ # Just started – beginner problems and notes
+
 ├── Practice/ # Simple programs and problem-solving
+
 └── README.md # Project documentation (this file)
 
 
